@@ -1,5 +1,4 @@
 # Tr3cksYet-and-JoshtoFu-Timestamp-Trademark-Declaration
-# Tr3cksYet-and-JoshtoFu-Timestamp-Trademark-Declaration
 
 ## Trademark Registration Timestamp
 **Date:** October 16, 2025  
@@ -19,7 +18,7 @@
 ### 🎮 Ludology
 Academic and independent research in the field of ludology, including:
 
-- Associative-Symbolic Method under the brand **Tr3cksYet**
+- Associative-Symbolic Method under the brand **Tr3cksYet**  
 - Causal-Statistical Method under the brand **JoshtoFu**
 
 **Activities covered:**
@@ -75,22 +74,39 @@ Trademark protection extends to the production of romantic films with explicit a
 
 ---
 
+### 🎼 Music Composition, Performance, and Video Production
+Trademark protection now extends to musical domains under both human and AI-assisted creation. This includes:
+
+#### 🎶 Music Composition
+- Original musical works composed under **Tr3cksYet** and **JoshtoFu**  
+- AI-assisted composition using generative tools and cognitive engines  
+- Modular sound design for games, films, and poetic declarations  
+
+#### 🎤 Musical Performance
+- Live and recorded performances under the declared handles  
+- Vocal, instrumental, and hybrid formats  
+- Public concerts, digital showcases, and timestamped rituals  
+
+#### 🎬 Music Videos
+- Production of music videos with and without AI-generated visuals  
+- Integration of symbolic choreography, surreal geometry, and mythic branding  
+- Distribution across digital platforms and academic archives  
+
+---
+
 ## Trademark Classes Applicable
 
 | Trademark Class | Description |
 |-----------------|-------------|
 | Class 9         | Software, computer hardware, electronics, video game components |
-| Class 41        | Education, training, entertainment, eSports, film production |
+| Class 41        | Education, training, entertainment, eSports, film and music production |
 | Class 42        | Scientific and technological services, ludology research, AI development |
 | Class 38        | Telecommunications, streaming, digital content distribution |
 | Class 16        | Printed publications, academic papers, promotional materials |
 | Class 35        | Advertising, social media content creation, influencer services |
+| Class 92        | Musical works, performances, and audiovisual compositions |
 
 ---
 
 ## Declaration
 This document serves as a timestamped declaration of intent to register the trademarks **Tr3cksYet** and **JoshtoFu** under the legal ownership of **Yetzirah Mihael Litzow Díaz** in the **United States**, **United Kingdom**, and **Spain**. All domains and activities listed above are covered under the scope of protection.
-
-## Declaration  
-This document serves as a timestamped declaration of intent to register the trademarks **Tr3cksYet** and **JoshtoFu** under the legal ownership of **Yetzirah Mihael Litzow Díaz** in the United States and United Kingdom. All domains and activities listed above are covered under the scope of protection.
-
